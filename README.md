@@ -24,3 +24,4 @@ JavaScript – Interactivity and event-driven UI elements
 Font Awesome – Icons used across navigation and cart section
 
 🌐 Live Demo
+https://navyapanwar4.github.io/E-Commerce-Frontpage-UI/
