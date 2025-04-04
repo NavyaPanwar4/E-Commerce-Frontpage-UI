@@ -1,6 +1,6 @@
-📦 E-Commerce Web Interface
+🛍️ Amazon-Inspired Frontend UI
 
-A fully responsive and interactive front-end design of a modern e-commerce website, built using HTML, CSS, and JavaScript. The interface replicates a familiar online shopping experience with dynamic UI elements and sleek styling.
+A fully responsive and interactive front-end project inspired by the design of Amazon.com. Built using HTML, CSS, and JavaScript, this project replicates the core layout and user experience of a modern e-commerce platform, focusing on interface design and client-side interactivity.
 
 🚀 Features
 
