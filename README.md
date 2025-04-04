@@ -1,1 +1,1 @@
-# E-Commerce-Homepage-UI
+# E-Commerce-Frontpage-UI
